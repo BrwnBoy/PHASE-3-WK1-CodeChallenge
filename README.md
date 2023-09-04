@@ -1,7 +1,7 @@
 # PHASE-3-WK1-CodeChallenge
 Authour:**Brian Mwangi Maina**
 
-## Prequisites:
+## Prerequisites:
 
 **Technologies Used**
 
@@ -11,13 +11,13 @@ Authour:**Brian Mwangi Maina**
 
 *To run the application, in your terminal*
 
-<li>Open the terminal and clone the repository to your local machine://git@github.com:BrwnBoy/PHASE-3-WK1-CodeChallenge.git//
+<li>Open the terminal and clone the repository to your local machine: git clone git@github.com:BrwnBoy/PHASE-3-WK1-CodeChallenge.git//
 <li>cd into *PHASE-3-WK1-CodeChallenge*
-<li>Finally, open up vs.code by typing in code . while in the repository.
+<li>Finally, open up vs.code by typing in (code .) while in the repository.
 
 ### How Each of the Programs Run:
 
-*Convert.Py* -*In this code, I first format the input hour, minute, and period into a time string in 12-hour format. I then use the datetime.strptime function to parse the time string into a datetime object. Finally, I format the datetime object into a 24-hour time string using the strftime method and return the result.*
+*Convert.Py* -*In this code, I first format the input hour, minute, and period into a time string in 12-hour format. I then use the datetime.strptime function to parse the time string into a datetime object. Finally, I format the DateTime object into a 24-hour time string using the strftime method and return the result.*
 
 *Two_Numbers.Py* -*In this code, I use a generator expression inside the sum function to count the number of positive numbers. The generator expression iterates over the list of numbers and generates a sequence of 1s and 0s, where 1 corresponds to a positive number and 0 corresponds to a non-positive number. The sum function then sums up these 1s and 0s to give the count of positive numbers.*
 
